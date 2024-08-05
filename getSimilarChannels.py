@@ -9,8 +9,8 @@ import time
 
 
 # Globals
-collection_id = 1 
-generation = 3
+collection_id = 1 # each set of data you collect (e.g. March 2024 run, July 2024 run, etc)
+generation = 3 # each round of similar channels (e.g. the first set of channels = gen 1, then their children = gen 2, etc)
 
 # Database Configuration
 dbhost = ""
